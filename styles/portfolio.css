@@ -45,5 +45,10 @@ nav a{
     background-color: #FFF8F3;
 }
 .banner{
+    display: flex;
     padding: 30px 30px 30px 150px;
+    align-items: center;
+}
+.banner .profile-pic{
+    width: 410px;
 }
